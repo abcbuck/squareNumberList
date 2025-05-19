@@ -23,3 +23,6 @@ The files in the following image store square numbers from 1 to 100 million squa
 ![image](https://github.com/user-attachments/assets/c13a1213-69e1-4db0-bd7d-240e6460b0fb)
 
 Results may vary with different files. This image is not indicative of the compression quality of the shown formats in general.
+
+Isn't it amazing that the combined source code in this repository has less than 10 KB, yet the resulting files this program outputs may grow to arbitrary size, independent of the compression method used?\
+Couldn't an intelligent program create a compressed file the size of this program, given its output?
